@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/bail": "npm:baileys@^6.0.9",
-    "pino": "^8.14.1"
+    "pino": "^8.14.1",
+    "qrcode": "^1.5.3"
   }
 }
