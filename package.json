@@ -9,6 +9,7 @@
   "author": "Alok",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/bail": "npm:baileys@^6.0.9"
+    "@adiwajshing/bail": "npm:baileys@^6.0.9",
+    "pino": "^8.14.1"
   }
 }
